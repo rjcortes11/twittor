@@ -8,7 +8,7 @@ const INMUTABLE_CACHE   = 'inmutable-v1'
  
 /* APP_SHELL es el corazon de la aplicacion, es lo que yo he desarrollado & lo minimo necesario*/
 const APP_SHELL = [
-    '/',
+    // '/',       ->> este solo sirve para dev
     'index.html',
     'css/style.css',
     'img/favicon.ico',
